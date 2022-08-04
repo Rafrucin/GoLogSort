@@ -1,6 +1,8 @@
 package main
 
-func main () {
+import "os"
 
-	f, rr := IO.Open("logs.log")
+func main() {
+
+	f, rr := os.Open("logs.log")
 }
