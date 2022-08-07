@@ -1,0 +1,27 @@
+2021-12-20 23:17:50.553 +00:00 [Error] Order 2 / 14 with Web_ID = 9930128 / Remarkable_ID = R8216535 imported successfully
+2021-12-20 23:17:50.860 +00:00 [Info] Order 3 / 14 with Web_ID = 9930129 / Remarkable_ID = R8216543 imported successfully
+2021-12-20 23:17:51.127 +00:00 [Info] Order 4 / 14 with Web_ID = 9930130 / Remarkable_ID = R8216545 imported successfully
+2021-12-20 23:17:51.410 +00:00 [Info] Order 5 / 14 with Web_ID = 9930131 / Remarkable_ID = R8216546 imported successfully
+2021-12-20 23:17:53.772 +00:00 [Info] Order 6 / 14 with Web_ID = 9930132 / Remarkable_ID = R8216548 imported successfully
+2021-12-20 23:17:54.065 +00:00 [Info] Order 7 / 14 with Web_ID = 9930133 / Remarkable_ID = R8216549 imported successfully
+2021-12-20 23:17:56.400 +00:00 [Info] Order 8 / 14 with Web_ID = 9930134 / Remarkable_ID = R8216550 imported successfully
+2021-12-20 23:17:58.813 +00:00 [Info] Order 9 / 14 with Web_ID = 9930135 / Remarkable_ID = R8216552 imported successfully
+2021-12-20 23:17:59.092 +00:00 [Info] Order 10 / 14 with Web_ID = 9930136 / Remarkable_ID = R8216553 imported successfully
+2021-12-20 23:18:01.408 +00:00 [Error] Order 11 / 14 with Web_ID = 9930137 / Remarkable_ID = R8216554 imported successfully
+2021-12-20 23:18:03.759 +00:00 [Info] Order 12 / 14 with Web_ID = 9930138 / Remarkable_ID = R8216556 imported successfully
+2021-12-20 23:18:06.085 +00:00 [Info] Order 13 / 14 with Web_ID = 9930139 / Remarkable_ID = R8216557 imported successfully
+2021-12-20 23:18:08.449 +00:00 [Info] Order 14 / 14 with Web_ID = 9930140 / Remarkable_ID = R8216559 imported successfully
+2021-12-20 23:18:08.449 +00:00 [Info] Imported 14 orders out of 14 from Remarkable.
+2021-12-20 23:23:08.450 +00:00 [Warn] Downloading orders from Remarkable...
+2021-12-20 23:23:08.645 +00:00 [Info] There are 1 orders to import
+2021-12-20 23:23:09.231 +00:00 [Info] Order 1 / 1 with Web_ID = 9930141 / Remarkable_ID = C5169619 imported successfully
+2021-12-20 23:23:09.231 +00:00 [Info] Imported 1 orders out of 1 from Remarkable.
+2021-12-20 23:28:09.232 +00:00 [Info] Downloading orders from Remarkable...
+2021-12-20 23:28:09.260 +00:00 [Info] There are 17 orders to import
+2021-12-20 23:28:09.624 +00:00 [Info] Order 1 / 17 with Web_ID = 9930142 / Remarkable_ID = R8216525 imported successfully
+2021-12-20 23:28:11.928 +00:00 [Error] Order 2 / 17 with Web_ID = 9930143 / Remarkable_ID = R8216544 imported successfully
+2021-12-20 23:28:14.221 +00:00 [Info] Order 3 / 17 with Web_ID = 9930144 / Remarkable_ID = R8216551 imported successfully
+2021-12-20 23:28:16.568 +00:00 [Info] Order 4 / 17 with Web_ID = 9930145 / Remarkable_ID = R8216558 imported successfully
+2021-12-20 23:28:25.047 +00:00 [Warn] Order 5 / 17 with Web_ID = 9930146 / Remarkable_ID = R8216561 imported successfully
+2021-12-20 23:28:25.372 +00:00 [Info] Order 6 / 17 with Web_ID = 9930147 / Remarkable_ID = R8216563 imported successfully
+2021-12-20 23:28:27.741 +00:00 [Info] Order 7 / 17 with Web_ID = 9930148 / Remarkable_ID = R8216564 imported successfully
